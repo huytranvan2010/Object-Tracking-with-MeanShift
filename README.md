@@ -1,3 +1,7 @@
+Cách chạy:
+```python
+python meanshift_objecttracking.py --video slow_traffic.mp4
+```
 
 Meanshift chính là một thuật toán phân cụm trong machine learning, khác với K-Means cần biết số cụm trước Meanshift có thể tự động phân chia dữ liệu theo cụm. Meanshift có nhiều ứng dụng, một trong số đó là object tracking.
 
